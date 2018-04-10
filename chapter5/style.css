@@ -1,0 +1,77 @@
+body
+{
+    margin: 0;
+    background-image: url(image/bg2.png);
+}
+
+.navbar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+}
+.navbar a
+{
+    font-family:Verdana;
+    text-decoration: none;
+    color: #00e600;
+    display: block;
+    text-align: center;
+    float:left;
+    width:25%;
+    height:25px;
+}
+.navbar .nbimg
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+
+
+
+}
+.home
+{
+     background-image: url(image/idpdbg.png);
+     background-size: contain;
+     background-position:center;
+
+
+}
+
+iframe {
+    display: block;
+    float: none;
+    min-height:720px;
+    margin-left:auto;
+    margin-right:auto;
+    max-width:1161px;
+}
+
+.dumy
+{
+    height:100px;
+
+}
+
+.block
+{
+    text-align:center;
+}
+
+.ad
+{
+    text-align:center;
+}
+
+.name
+{
+    color: #cccccc;
+
+}

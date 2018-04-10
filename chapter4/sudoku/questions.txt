@@ -1,0 +1,30 @@
+library
+
+
+
+
+
+
+
+the two things being compared are the same
+
+int max = (strcmp(g.level, "debug") == 0) ? 9 : 1024;
+
+if (strcmp(g.level, "debug") == 0)
+{
+    return 9;
+}
+else
+{
+return 1024;
+)
+
+If you passed in two parameters
+
+x amd y
+
+Show_cursor
+
+debug 1 = 1 blank
+debug 2 = 2 blank
+debug 9 = 9 blank
